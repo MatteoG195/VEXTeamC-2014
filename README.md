@@ -7,7 +7,7 @@ This repository was created to hold the source code for Team 195's "VEX Team C" 
 
 The source code may or may not be in active development at any time, and is being released under a BSD License.
 
-VEX Team A
+VEX Team C
 ----------
 ###Team Name
 TBA

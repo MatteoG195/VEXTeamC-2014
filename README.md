@@ -1,4 +1,4 @@
-Team 195 - VEX Team C
+﻿Team 195 - VEX Team C
 =====================
 
 Introduction
@@ -54,7 +54,7 @@ Cubes first, ask questions later.
 Robot Details
 -------------
 	* (inch)" reach
-	* IDK lift
+	* Lift- Being worked on.
 =======
 	* 46" reach
 	* Can lift cubes or stacks

@@ -9,25 +9,29 @@ The source code may or may not be in active development at any time, and is bein
 
 VEX Team C
 ----------
-###Team Name
+###SWAG LoRDZ
 TBA
 
 ###Team Captains
-<<<<<<< HEAD
 	* Matteo G.
 	* Jesse R.
 =======
-	* DO NOT USE LAST NAMES (ie. Tim Z.)
-	* Team Member 1
-	* Team Member 2
->>>>>>> parent of ad23a12... Put names in
+###Team Members
+	* Will P.
+	* Andrew G.
+	* Nick R.
+	* Mike J.
+	* Tyler P.
+	* Evan D.
+	* Jordan B.
+	* Jake A.
+	* Vinny P.
+	* Jimmy I.
 	
 ###Team Mentors
-	* Team Member 3
-	* Team Member 4
-
-###Team Members
-	* Team Member 5
+	* Jason T.
+	* Luke P.
+	* Neils P.
 	
 GAME: VEX Skyrise
 -----------------
@@ -49,12 +53,10 @@ Cubes first, ask questions later.
 	
 Robot Details
 -------------
-<<<<<<< HEAD
 	* (inch)" reach
 	* IDK lift
 =======
 	* 46" reach
->>>>>>> parent of ad23a12... Put names in
 	* Can lift cubes or stacks
 	* 6-wheel drive
 

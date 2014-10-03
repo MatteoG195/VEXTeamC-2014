@@ -13,7 +13,6 @@ VEX Team C
 TBA
 
 ###Team Captains
-	* DO NOT USE LAST NAMES (ie. Tim Z.)
 	* Matteo G.
 	* Jesse R.
 	
@@ -55,6 +54,7 @@ Cubes first, ask questions later.
 Robot Details
 -------------
 	* (inch)" reach
+	* IDK lift
 	* Can lift cubes or stacks
 	* 2-wheel drive
 
